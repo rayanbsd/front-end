@@ -1,0 +1,46 @@
+.test
+{
+    background: -moz-linear-gradient(bottom, rgb(244,244,246) 75%, rgb(244,244,246) 5%, rgb(62,62,69) 5%, rgb(62,62,69) 25%); /* FF3.6+ */
+    height:700px;
+
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 16px;
+  background: #3e3e45;
+  text-decoration: none;
+}
+
+.a{
+  margin-left: 15%;
+  color: white;
+top: 22px;
+  left: 7px;
+  
+
+
+
+
+}
+.clearfix{
+   line-height: 10%;
+   border-bottom:2px solid white;
+}
+.b{
+  background-color:grey;
+  border-radius: 5%;
+  width:40%;
+  height: 50px;
+  color:white;
+}
+
+.fa {
+  font-size:30px;
+
+}
